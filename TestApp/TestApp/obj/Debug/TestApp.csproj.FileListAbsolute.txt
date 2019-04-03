@@ -1,0 +1,6 @@
+c:\users\artiom\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Debug\TestApp.exe.config
+c:\users\artiom\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Debug\TestApp.exe
+c:\users\artiom\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Debug\TestApp.pdb
+c:\users\artiom\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+c:\users\artiom\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.exe
+c:\users\artiom\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb

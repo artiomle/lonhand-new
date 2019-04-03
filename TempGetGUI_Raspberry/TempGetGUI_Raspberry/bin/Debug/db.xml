@@ -1,0 +1,3 @@
+<root>
+	<row Temperature_Get_URL="http://192.168.0.39:6978/MySmarthome/Temperature_Get" LonHandIP="192.168.0.44"/>
+</root>
