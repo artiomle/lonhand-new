@@ -7,3 +7,6 @@
    pi@raspberrypi ~ $ sudo apt-get update
    pi@raspberrypi ~ $ sudo apt-get install mono-complete
    ```
+   
+ Connecting Temp Sensor (ds18b20) to raspberry pi
+   https://tutorials-raspberrypi.com/raspberry-pi-temperature-sensor-1wire-ds18b20/
