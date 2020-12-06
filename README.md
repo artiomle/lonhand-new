@@ -12,3 +12,10 @@
    ```
    https://tutorials-raspberrypi.com/raspberry-pi-temperature-sensor-1wire-ds18b20/
    ```
+   
+Important note 
+```
+In this version no port scan is implemented, therefore a config file needed to be added on same dir of the executable 
+file name should be "db.xml"
+The required fieled name is : LonHandIP
+The should include the actual ip address of the USR-WM1h device (of couse it should be on same network with the raspberrypi which should run the compiled code from this sln (TempGetGUI_Raspberry)
