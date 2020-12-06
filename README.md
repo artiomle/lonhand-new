@@ -16,6 +16,11 @@
 Important note 
 ```
 In this version no port scan is implemented, therefore a config file needed to be added on same dir of the executable 
-file name should be "db.xml"
+
+File name should be "db.xml"
+
 The required fieled name is : LonHandIP
-The should include the actual ip address of the USR-WM1h device (of couse it should be on same network with the raspberrypi which should run the compiled code from this sln (TempGetGUI_Raspberry)
+
+The value should include the actual ip address of the USR-WM1h device (of couse it should be on same network with the 
+raspberrypi which should run the compiled code from this sln (TempGetGUI_Raspberry)
+```
