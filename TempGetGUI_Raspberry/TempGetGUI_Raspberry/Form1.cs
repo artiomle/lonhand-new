@@ -199,7 +199,7 @@ namespace TempGetGUI_Raspberry
         private bool send_email(string body)
         {
             bool res = false;
-            var fromAddress = new MailAddress("a******om@ethrix.com", "Artiom");
+            var fromAddress = new MailAddress("a******om@gmail.com", "Artiom");
             var toAddress = new MailAddress("ar*******le@hotmail.com", "ART");
             const string fromPassword = "*********";
             string subject = "Boiler System Notification";
