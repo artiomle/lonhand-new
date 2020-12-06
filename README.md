@@ -9,4 +9,6 @@
    ```
    
  Connecting Temp Sensor (ds18b20) to raspberry pi
+   ```
    https://tutorials-raspberrypi.com/raspberry-pi-temperature-sensor-1wire-ds18b20/
+   ```
