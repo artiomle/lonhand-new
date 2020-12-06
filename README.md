@@ -15,7 +15,7 @@
    
 Important note 
 ```
-In this version no port scan is implemented, therefore a config file needed to be added on same dir of the executable 
+In this version does not support port scan is implemented, therefore a config file needed to be added on same dir of the executable 
 
 File name should be "db.xml"
 
