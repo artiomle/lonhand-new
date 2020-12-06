@@ -1,4 +1,4 @@
-![alt text](https://github.com/artiomle/lonhand-new/edit/master/lonhand-logo.jpg)
+![alt text](https://github.com/artiomle/lonhand-new/blob/master/lonhand-logo.jpg)
 # This project is created to monitor temerature in water boilers (or any other application)
     It based on wifi based relay (to control the power circuit of the boiler)
     (USR-WM1h 1 Output Wifi Remote)
